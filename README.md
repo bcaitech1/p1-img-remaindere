@@ -20,7 +20,7 @@ model.py # Simple CNN, Efficientnet, Swish
 requirements.txt
 sample_submission.ipynb # Inference & Save .csv file
 train.py # Train
-'''
+```
 
 ## DIRTY MNIST Data, EDA  ### data는 저작권 관련 이유로 첨부하지 않았습니다!  
 
