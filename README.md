@@ -38,6 +38,7 @@ Valid ratio를 0.2 혹은 0.15, 0.25등으로 다양하게 조정하여 검증 �
 ## 학습  
 
 공통 : EfficientNet 계열 Model, MADGRAD optimizer, StepLR 사용(LR decay rate(gamma) = 0.5), Normalization 미적용  
+  
 ![image](https://user-images.githubusercontent.com/48322490/122838649-7aadc980-d331-11eb-88db-d91b2f7111ac.png)  
 
 **Architecture**  
