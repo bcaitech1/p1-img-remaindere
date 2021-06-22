@@ -23,6 +23,7 @@ train.py # Train
 ## 검증 전략  
 
 Baseline Code에서 제공된 dataset중 MaskSplitByProfileDataset을 사용  
+  
 Valid ratio를 0.2 혹은 0.15, 0.25등으로 다양하게 조정하여 검증 및 학습   
 
 ## EDA  
