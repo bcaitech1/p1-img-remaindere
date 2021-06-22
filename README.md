@@ -80,12 +80,11 @@ Public score (27위)에 비하여 상대적으로 높은 Private score (13위)�
 3. 실험 변인 미통제
    -> 두 개 이상의 변화를 주고 실험할 경우 각 변인에 대한 실험 결과를 알 수 없으므로 각각의 실험 시에 변인을 하나씩 변경하여 실험 진행
 
-
-## DIRTY MNIST Data, EDA  ### data는 저작권 관련 이유로 첨부하지 않았습니다!  
   
 ## Contributors  
 :floppy_disk:**[송광원(remaindere)](https://github.com/remaindere)** | :spades:**[허재섭(shjas94)](https://github.com/shjas94)**  
   
-## reference  
+## Reference  
 **[efficient-pytorch](https://github.com/lukemelas/EfficientNet-PyTorch)**  
    
+### data는 저작권 관련 이유로 첨부하지 않았습니다!  
